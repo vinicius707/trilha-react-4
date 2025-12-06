@@ -52,7 +52,7 @@ export const AdministracaoPratos = () => {
                 </a>
               </TableCell>
               <TableCell>
-                [<Link to={`/admin.pratos/${prato.id}`}>editar</Link>]
+                [<Link to={`/admin/pratos/${prato.id}`}>editar</Link>]
               </TableCell>
               <TableCell>
                 <Button
